@@ -1,4 +1,7 @@
 #### hw6.md
+
+к концу, возможно, будет очень много слов, с пропуском «с», у меня заедает клавиша! прошу прощения!!!
+
 # задание 1
 **10 самых частых продолжений фразы «due to the»:**
 1.	due to the fact
@@ -25,6 +28,7 @@
 **american VS british**
 
 задание можно найти по этой [ссылке](https://docs.google.com/document/d/1HP7DvZvAqNRXF5FIOWKIzLEdYH8UzU8xeIcMFaSt3Fk/edit?usp=sharing)
+
 
 # задание AntConc
 
@@ -56,20 +60,38 @@
 ### Владимир Набоков. Другие берега.
 
 
-## **контекст**
+## **контекст и Concordance Plot**
 
  **Желтый**
+ 
 Желтый применяется либо в нейтральном описании вещи без оценки, либо с отрицательным оттенком (связывается с неприятным человеком или безыходным желтым сломанным цветом)
 
+**Concordance Plot желтого**
+
+![](https://raw.githubusercontent.com/korvelksenia/image/master/V_hUjgraeAI.jpg)
+
  **Чёрный** 
+ 
 Чёрный встречается либо описании чего-либо, в 90% это одежда, в 10% — хлеб, либо в ассоциации в элегантным, дорогим и роскошным
 
+**Concordance Plot черного**
+
+![](https://raw.githubusercontent.com/korvelksenia/image/master/j-HUIpm6454.jpg)
+
  **Белый**
+ 
 Белый часто(!) описывает галстук и у Толстого (чаще), и у Набокова. Так же ассоциируется с чистотой.
 
-## **Concordance Plot**
+**Concordance Plot белого**
 
-(я перетала понимать, что нужно опиывать)
+![](https://raw.githubusercontent.com/korvelksenia/image/master/4ZNjzfeX7JE.jpg)
 
 
+## **N-грамм**
+
+
+![](https://raw.githubusercontent.com/korvelksenia/image/master/j2RuqK13ci8.jpg)
+
+
+![](https://raw.githubusercontent.com/korvelksenia/image/master/oEzV0ikrBS0.jpg)
 
