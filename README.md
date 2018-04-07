@@ -1,4 +1,4 @@
-b
+
 #### hw6.md
 
 к концу, возможно, будет очень много слов с пропуском «с», у меня заедает клавиша! прошу прощения!!!
@@ -55,12 +55,32 @@ b
 
 для удобного просмотра самых редких слов нужно активировать Sort by Invert Oder.
 
-Вообще! Редких слов, которые встречаются по одному разу, очень много! И я положительно не знаю, как их сюда впихивать
+Вообще! Редких слов, которые встречаются по одному разу, очень много! 
 
 ### Лев Толстой. Анна Каренина.
+1. Aber  (Французская и немецкая речь не была редка в то время)
+2. Ablutions
+3. Admirable
+4. Adore
+5. Age
+6. Aise
+7. Allemand
+8. Aller
+9. Allons
+10. Alphonse
 
 
 ### Владимир Набоков. Другие берега.
+1. Abandonnйе (искажение французской речи)
+2. Accurata
+3. Affreux
+4. Ai
+5. Ail
+6. Aimait
+7. Aime
+8. Air
+9. Alice
+10. An
 
 
 ## **контекст и Concordance Plot**
@@ -89,15 +109,20 @@ b
 
 ![](https://raw.githubusercontent.com/korvelksenia/image/master/4ZNjzfeX7JE.jpg)
 
+## **Concordance Plot **
+
+употребление имени "Анна" показывает на графике разделение романа на главы: там, где частота возрастает -- главы об Анне и ее семье, белые интервалы -- главы о Левине
+
+![](https://raw.githubusercontent.com/korvelksenia/image/master/akENFHN3RAc.jpg)
+
+наличие огромного количества дат говорит о высокой биографичности
+
+![](https://raw.githubusercontent.com/korvelksenia/image/master/Xj4iD2Kr5L0.jpg)
+
 
 ## **N-грамм**
 
-
-![](https://raw.githubusercontent.com/korvelksenia/image/master/j2RuqK13ci8.jpg)
-
-
-![](https://raw.githubusercontent.com/korvelksenia/image/master/oEzV0ikrBS0.jpg)
+![]()
 
 
-
-
+![]()
