@@ -122,7 +122,7 @@
 
 ## **N-грамм**
 
-![]()
+![](https://raw.githubusercontent.com/korvelksenia/image/master/n1u4dz8vXic.jpg)
 
 
-![]()
+![](https://raw.githubusercontent.com/korvelksenia/image/master/bhWc03saWBo.jpg)
